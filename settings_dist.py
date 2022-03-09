@@ -5,4 +5,4 @@ TOKEN_FILENAME = 'token.json'
 
 CREDENTIALS_FILENAME = 'credentials.json'
 
-BACKUP_TEAM_DRIVE_FOLDER_ID = ''
+BACKUP_TEAM_DRIVE_FOLDER_ID = 'ID of Drive folder (https://drive.google.com/drive/folders/<ID>)'
